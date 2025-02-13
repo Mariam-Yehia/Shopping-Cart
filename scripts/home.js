@@ -9,7 +9,7 @@ const products = [
     name: "Cappuccino",
     description: "A creamy blend of espresso, steamed milk, and foam.",
     price: 4.0,
-    image: "images/Capp.png",
+    image: "images/capp.png",
   },
   {
     name: "Latte",
